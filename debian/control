@@ -1,5 +1,6 @@
 Source: nghttp2
-Maintainer: Tomasz Buchert <tomasz@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Tomasz Buchert <tomasz@debian.org>
 Uploaders: Ondřej Surý <ondrej@debian.org>
 Section: httpd
 Priority: optional

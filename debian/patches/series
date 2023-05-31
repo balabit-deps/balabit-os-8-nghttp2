@@ -1,2 +1,4 @@
 0001-Reformat-obfuscated-javascript-in-sphinx-theme.patch
 0002-Make-fetch-ocsp-response-use-python3.patch
+CVE-2020-11080-1.patch
+CVE-2020-11080-2.patch
