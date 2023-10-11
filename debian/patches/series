@@ -2,3 +2,4 @@
 0002-Make-fetch-ocsp-response-use-python3.patch
 CVE-2020-11080-1.patch
 CVE-2020-11080-2.patch
+CVE-2023-44487.patch

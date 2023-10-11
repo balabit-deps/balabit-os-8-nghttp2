@@ -1,3 +1,12 @@
+nghttp2 (1.40.0-1ubuntu0.2) focal-security; urgency=medium
+
+  * SECURITY UPDATE: HTTP/2 protocol denial of service
+    - debian/patches/CVE-2023-44487.patch: implement stream reset rate
+      limiting.
+    - CVE-2023-44487
+
+ -- Marc Deslauriers <marc.deslauriers@ubuntu.com>  Wed, 11 Oct 2023 17:39:46 -0400
+
 nghttp2 (1.40.0-1ubuntu0.1) focal-security; urgency=medium
 
   * SECURITY UPDATE: Denial of Service
